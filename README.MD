@@ -1,3 +1,9 @@
+# GOHTML
+
+Este é um pacote usado para um exemplo de uma aula. NÃO USE EM PRODUÇÃO.
+
+---
+
 ![Thiago - Capa](https://user-images.githubusercontent.com/9437391/153274659-915c4df9-0032-4757-a9a2-6a85107c276b.png)
 
 # Hello there!
